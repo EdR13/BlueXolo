@@ -60,3 +60,16 @@
 .page-footer{
     font-size: 0.8rem;
 }
+
+.step.done::before{
+    background-color:#26a69a !important;
+}
+
+.step-title::before{
+    background-color:#26a69a !important;
+}
+
+.link {
+    color: #fff;
+    cursor: pointer;
+}
